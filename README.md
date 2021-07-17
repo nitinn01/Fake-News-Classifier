@@ -1,8 +1,8 @@
 # Fake-News-Classifier
 
-#* Data Description
-train.csv: A full training dataset with the following attributes:
+* Data Description
 
+train.csv: A full training dataset with the following attributes:
 id: unique id for a news article
 title: the title of a news article
 author: author of the news article
