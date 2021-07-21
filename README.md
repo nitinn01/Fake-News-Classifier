@@ -1,6 +1,7 @@
 # Fake-News-Classifier
 
 * Data Description
+* Link to the dataset: https://www.kaggle.com/c/fake-news
 
 train.csv: A full training dataset with the following attributes:
 id: unique id for a news article
